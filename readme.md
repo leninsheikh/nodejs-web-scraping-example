@@ -11,3 +11,6 @@ yarn install --pure-lockfile
 ```
 yarn start
 ```
+
+##### *NOTE
+[By default laptops.json will look ugly. If you are using vscode press ALT+SHIFT+F to beautify ]

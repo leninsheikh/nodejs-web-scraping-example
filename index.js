@@ -30,7 +30,7 @@ rp(laptops)
                 '\x1b[33m',
                 data.length,
                 '\x1b[0m',
-                'Laptops are found!',
+                'Laptops found!',
             );
         })
 

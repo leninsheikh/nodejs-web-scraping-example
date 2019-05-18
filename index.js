@@ -26,11 +26,11 @@ rp(laptops)
             if (err) throw err;
             console.log(
                 '\x1b[32m',
-                '► Scraping is complete!',
+                '► Scraping complete!',
                 '\x1b[33m',
                 data.length,
                 '\x1b[0m',
-                'Laptops found!',
+                'Laptop\'s details is saved to laptops.json',
             );
         })
 

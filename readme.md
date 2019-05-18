@@ -7,7 +7,7 @@ Clone the repository and open a terminal inside project directory
 ```
 yarn install --pure-lockfile
 ```
-#### Running the Scraping
+#### Starting scraping
 ```
 yarn start
 ```
